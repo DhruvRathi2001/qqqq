@@ -1,0 +1,3 @@
+this is third text file in master
+
+adding some more lines here
